@@ -1,0 +1,4 @@
+build/
+*.o
+*.exe
+patch_pipeline
